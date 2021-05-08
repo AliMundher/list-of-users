@@ -18,7 +18,7 @@ const Navbar = () => {
                         <Link href="/about">About</Link>
                     </li>
                     <li className={styles.item}>
-                        <Link href="/ninja">Ninja List</Link>
+                        <Link href="/moon">Moon List</Link>
                     </li>
                 </ul>
             </nav>

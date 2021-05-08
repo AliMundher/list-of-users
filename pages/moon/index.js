@@ -27,7 +27,7 @@ const Ninja = ({ users }) => {
                 {
                     users && users.map(user => (
                         <div key={user.id} className={styles.single}>
-                            <Link href={'/ninja/' + user.id}>
+                            <Link href={'/moon/' + user.id}>
                                 <h3>{user.username}</h3>
                             </Link>
                         </div>
