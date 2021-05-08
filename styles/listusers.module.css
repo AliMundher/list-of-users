@@ -1,0 +1,16 @@
+.single {
+    background-color: #ddd;
+    padding: 6px;
+    border-left: 6px solid #ddd;
+    margin-bottom: 10px;
+    transition: all .3s ease-in-out;
+    cursor: pointer;
+}
+
+.single:hover {
+    border-left: 6px solid #ccc;
+}
+
+.link {
+    color: #555;
+}
